@@ -238,6 +238,8 @@ static void handleTapGesture(UITapGestureRecognizer *gesture) {
 }
 %end
 
+%end // VCamHooks group
+
 // ============================================================================
 // MARK: - Constructor
 // ============================================================================
